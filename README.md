@@ -28,6 +28,9 @@ The objective of this project is to extract meaningful insights from sports data
 ## Project Outcome
 This project helped strengthen my analytical thinking, data visualization, and problem-solving skills using real-world sports datasets.
 
+## Dataset
+Dataset file: "football_analysis_dataset.csv"
+Contains football player career statistics and performance-related data used for exploratory data analysis.
 
 ## Author
 Smita Patil
